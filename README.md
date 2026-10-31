@@ -24,11 +24,11 @@ A sleek, futuristic **Tony Stark / Cyberpunk-inspired** Age Calculator web appli
 ---
 
 ## 🚀 Live Demo
-🔗 **Experience the Live App:** [Click Here to View Live](https://officialsiran-cell.github.io/age-calculator/)
+🔗 **Experience the Live App:** [Click Here to View Live](https://officialsiran-cell.github.io/Age-Calculator/)
 
 ---
 
 ## 💻 Local Setup & Execution
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/officialsiran-cell/age-calculator.git](https://github.com/officialsiran-cell/age-calculator.git)
+   git clone [https://github.com/officialsiran-cell/Age-Calculator.git](https://github.com/officialsiran-cell/Age-Calculator.git)
